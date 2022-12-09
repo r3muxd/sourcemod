@@ -106,6 +106,7 @@
 			"engine"			"sdk2013"
 			"engine"			"contagion"
 			"engine"			"pvkii"
+			"engine"			"portal2"
 		}
 		
 		"Offsets"
@@ -190,6 +191,7 @@
 			"game"					"doi"
 			"game"					"bms"
 			"game"					"iosoccer"
+			"game"					"portal2"
 		}
 
 		"Keys"
@@ -240,6 +242,7 @@
 			"game"					"doi"
 			"game"					"bms"
 			"game"					"iosoccer"
+			"game"					"portal2"
 		}
 		
 		"Keys"

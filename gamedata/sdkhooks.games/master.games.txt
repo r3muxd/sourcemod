@@ -71,6 +71,11 @@
 	}
 */
 	
+	"engine.portal2.txt"
+	{
+		"engine"	"portal2"
+	}
+
 	"game.insurgency.txt"
 	{
 		"game"		"$Insurgency"

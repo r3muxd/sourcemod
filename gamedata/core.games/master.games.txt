@@ -105,7 +105,14 @@
 	{
 		"game"		"dinodday"
 	}
-
+	"engine.portal2.txt"
+	{
+		"engine"		"portal2"
+	}
+	"game.portal2.txt"
+	{
+		"game"		"portal2"
+	}
 	"blocklist.plugins.txt"
 	{
 	}
